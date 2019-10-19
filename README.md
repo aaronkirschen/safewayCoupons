@@ -1,7 +1,7 @@
 # safewayCoupons
 Python 3 script that adds Safeway coupons to your Safeway account using Selenium Webdriver
 
-To use, replace in the config dictionary <safeway email address> with your Safeway and <safeway password> with your Safeway password.
+To use, replace <safeway email address> with your Safeway and <safeway password> with your Safeway password in the config dictionary.
 
 Requires Python 3 Selenium Webdriver & chromedriver exe.
 
