@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 import time
 
 config = {
-    'email':        '<safeway email address',
+    'email':        '<safeway email address>',
     'password':      '<safeway password>',
     'homepage':     'https://www.safeway.com/home.html',
     'couponsPage':  'https://www.safeway.com/justforu/coupons-deals.html'
